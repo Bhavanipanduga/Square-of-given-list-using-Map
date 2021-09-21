@@ -1,0 +1,1 @@
+# Square-of-given-list-using-Map
